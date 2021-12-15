@@ -1,0 +1,32 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -- inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangtoan1312/nodejs_demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "javascript",
+    "npm"
+  ],
+  "author": "quangtoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quangtoan1312/nodejs_demo/issues"
+  },
+  "homepage": "https://github.com/quangtoan1312/nodejs_demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
